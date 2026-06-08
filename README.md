@@ -1,7 +1,7 @@
 <h1 align="center">⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ancientreIic&label=𑣲⋆&color=FF6EE0&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ancientreIic&label=𑣲⋆&color=FF6EE0&style=plastic" alt="Profile Views" />
 </p>
 
 <p align="center">
